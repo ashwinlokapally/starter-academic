@@ -11,24 +11,28 @@ role: Postdoctoral Associate
 # Organizations/Affiliations
 organizations:
 - name: Whiehead Insittute for Biomedical Research - MIT
-  url: ""
+  url: "wi.mit.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
+- Fundamental Biology
+- Neurogenesis
+- Neurodegenrative diseases
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Machine Learning
+- Health Economics and Outcomes Research
+- Market Access
 
 education:
   courses:
   - course: PhD in Developmental Neurobiology
     institution: MLU Halle-Wittenberg
     year: 2019
-  - course: MEng in Biomedical Engineering
-    institution: MLU Halle-Wittenberg
-    year: 2009
+  # - course: MEng in Biomedical Engineering
+  #  institution: MLU Halle-Wittenberg
+  #  year: 2009
   # - course: BSc in Artificial Intelligence
   # institution: Massachusetts Institute of Technology
   #  year: 2008
@@ -69,6 +73,18 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm a postdoctoral researcher in the Sive lab at the Whitehead Institue - MIT. I'm working on neural crest cell migration, brain & craniofacial development and deveopmental disorders associated with it. The work also encompasses the role of extreme anterior domain in brain and craniofacial structure formation. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+During my PhD, I charactered the functional role of TRIM E3 ligases during early neurogenesis. I developed a yeast 2 hydrid screen using Xenopus embryo library and also the LC-MS/MS proteomic screening method to identify the functional interaction partners of Trim2 E3 ligase. I could show that Trim2 interacts with ALIX/ESCRT complex and plays a key role in the determination and differentiation of neural progenitors via the modulation of proliferation/apoptosis during neurogenesis (Lokapally et al., Cells 2020).
+
+I also have a keen interest in the use of machine learning and artifitial intelligence to create intelligent algorithms for healthcare applications. Aside from research, at MIT I was the Co-chair of Community Building of the Postdoctoral Association, working to create a communal environment and professional growth of postdocs. I'm also a member of the Whitehead Postdoctoral Association. 
+
+For complete list of publications visit my pubmed page.
+
+
+
+
+
+
+
+
