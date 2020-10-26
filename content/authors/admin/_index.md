@@ -14,7 +14,7 @@ organizations:
   url: "wi.mit.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
 - Fundamental Biology
@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '/#contact'  # For a direct email link, use "mailto:ashwinl@wi.mit.edu".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
@@ -75,7 +75,7 @@ user_groups:
 
 I'm a postdoctoral researcher in the Sive lab at the Whitehead Institue - MIT. I'm working on neural crest cell migration, brain & craniofacial development and deveopmental disorders associated with it. The work also encompasses the role of extreme anterior domain in brain and craniofacial structure formation. 
 
-During my PhD, I charactered the functional role of TRIM E3 ligases during early neurogenesis. I developed a yeast 2 hydrid screen using Xenopus embryo library and also the LC-MS/MS proteomic screening method to identify the functional interaction partners of Trim2 E3 ligase. I could show that Trim2 interacts with ALIX/ESCRT complex and plays a key role in the determination and differentiation of neural progenitors via the modulation of proliferation/apoptosis during neurogenesis (Lokapally et al., Cells 2020).
+During my PhD, I characterized the functional role of TRIM E3 ligases during early neurogenesis. I developed a yeast 2 hydrid screen using Xenopus embryo library and a LC-MS/MS proteomic screening method to identify the functional interaction partners of Trim2 E3 ligase. I could show that Trim2 interacts with ALIX/ESCRT complex and plays a key role in the determination and differentiation of neural progenitors via the modulation of proliferation/apoptosis during neurogenesis (Lokapally et al., Cells 2020).
 
 I also have a keen interest in the use of machine learning and artifitial intelligence to create intelligent algorithms for healthcare applications. Aside from research, at MIT I was the Co-chair of Community Building of the Postdoctoral Association, working to create a communal environment and professional growth of postdocs. I'm also a member of the Whitehead Postdoctoral Association. 
 
