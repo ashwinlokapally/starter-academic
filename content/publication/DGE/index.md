@@ -3,7 +3,7 @@ title: "Xenopus laevis neuronal cell adhesion molecule (nrcam): plasticity of a 
 date: 2019-07-29T21:45:40-05:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors: ["Ashwin Lokapally", "Sanjeeva Metikala"' "Thomas Hollemann"]
+authors: ["Ashwin Lokapally", "Sanjeeva Metikala", "Thomas Hollemann"]
 
 # Publication type.
 # Legend:
