@@ -1,9 +1,9 @@
 ---
-title: ""
+title: "Cells publication"
 date: 2019-07-29T21:45:40-05:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors: []
+authors: ["Ashwin Lokapally"]
 
 # Publication type.
 # Legend:
