@@ -5,10 +5,10 @@ draft: false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags: ["disease progression", "bayesian modelling"]
+tags: []
 
 # Project summary to display on homepage.
-summary: "Modelling the progression of Alzheimer's disease and related neurodegenerative diseases"
+summary: ""
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
@@ -25,7 +25,7 @@ external_link: ""
 url_pdf: ""
 url_code: ""
 url_dataset: ""
-url_slides: "pres.pdf"
+url_slides: ""
 url_video: ""
 url_poster: ""
 ---
