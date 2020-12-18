@@ -28,8 +28,8 @@ abstract: Neuron-glial-related cell adhesion molecule (NRCAM) is a neuronal cell
 # Summary. An optional shortened abstract.
 summary:" "
 
-tags:
-- Neurogenesis
+# tags:
+# Neurogenesis
 featured: false
 
 # links:
