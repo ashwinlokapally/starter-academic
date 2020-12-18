@@ -68,7 +68,7 @@ image:
   focal_point: ""
   preview_only: false
 
-  pic_width: 450
+  pic_width: 1200
 ---
 
 
