@@ -1,9 +1,9 @@
 ---
-title: "DGE publication"
+title: "Xenopus laevis neuronal cell adhesion molecule (nrcam): plasticity of a CAM in the developing nervous system"
 date: 2019-07-29T21:45:40-05:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors: ["Ashwin Lokapally"]
+authors: ["Ashwin Lokapally", "Sanjeeva Metikala"' "Thomas Hollemann"]
 
 # Publication type.
 # Legend:
@@ -14,20 +14,20 @@ authors: ["Ashwin Lokapally"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types: []
+publication_types: ["2"]
 
 # Publication name and optional abbreviated version.
-publication: ""
-publication_short: ""
+publication: "Development Genes and Evolution"
+publication_short: "DGE"
 
 # Abstract.
-abstract: ""
+abstract: "Neuron-glial-related cell adhesion molecule (NRCAM) is a neuronal cell adhesion molecule of the L1 immunoglobulin superfamily, which plays diverse roles during nervous system development including axon growth and guidance, synapse formation, and formation of the myelinated nerve. Perturbations in NRCAM function cause a wide variety of disorders, which can affect wiring and targeting of neurons, or cause psychiatric disorders as well as cancers through abnormal modulation of signaling events. In the present study, we characterize the Xenopus laevis homolog of nrcam. Expression of Xenopus nrcam is most abundant along the dorsal midline throughout the developing brain and in the outer nuclear layer of the retina."
 
 # Summary. An optional shortened abstract.
 summary: ""
 
 # Digital Object Identifier (DOI)
-doi: ""
+doi: "https://doi.org/10.1007/s00427-016-0569-9"
 
 # Is this a featured publication? (true/false)
 featured: false
@@ -42,7 +42,7 @@ tags: []
 #   E.g. `projects = ["deep-learning"]` references
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["Neurogenesis"]
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
@@ -53,7 +53,7 @@ projects: []
 slides: ""
 
 # Links (optional).
-#url_pdf = ""
+#url_pdf = "https://link.springer.com/content/pdf/10.1007/s00427-016-0569-9.pdf"
 #url_preprint = ""
 #url_code = ""
 #url_dataset = ""
