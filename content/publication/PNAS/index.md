@@ -53,7 +53,7 @@ projects: []
 slides: ""
 
 # Links (optional).
-url_pdf = "https://www.pnas.org/content/pnas/113/36/10103.full.pdf"
+url_pdf: "https://www.pnas.org/content/pnas/113/36/10103.full.pdf"
 #url_preprint = ""
 #url_code = ""
 #url_dataset = ""
