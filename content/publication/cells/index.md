@@ -1,9 +1,9 @@
-+++
-title = ""
-date = 2019-07-29T21:45:40-05:00
+---
+title: ""
+date: 2019-07-29T21:45:40-05:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = []
+authors: []
 
 # Publication type.
 # Legend:
@@ -14,27 +14,27 @@ authors = []
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = []
+publication_types: []
 
 # Publication name and optional abbreviated version.
-publication = ""
-publication_short = ""
+publication: ""
+publication_short: ""
 
 # Abstract.
-abstract = ""
+abstract: ""
 
 # Summary. An optional shortened abstract.
-summary = ""
+summary: ""
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi: ""
 
 # Is this a featured publication? (true/false)
-featured = false
+featured: false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags: []
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -42,7 +42,7 @@ tags = []
 #   E.g. `projects = ["deep-learning"]` references
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = []
+projects: []
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
@@ -50,18 +50,19 @@ projects = []
 #   E.g. `slides = "example-slides"` references
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides = ""
+slides: ""
 
 # Links (optional).
-url_pdf = ""
-url_preprint = ""
-url_code = ""
-url_dataset = ""
-url_project = ""
-url_slides = ""
-url_video = ""
-url_poster = ""
-url_source = ""
+#url_pdf = ""
+#url_preprint = ""
+#url_code = ""
+#url_dataset = ""
+#url_project = ""
+#url_slides = ""
+#url_video = ""
+#url_poster = ""
+#url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to ena
+---
