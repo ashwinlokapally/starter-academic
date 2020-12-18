@@ -4,7 +4,7 @@ authors:
 - Thorsten Pfirrmanna
 - Enrico Jandta
 - Swantje Ranft
-- *Ashwin Lokapally*
+- Ashwin Lokapally
 - Herbert Neuhausa
 - Muriel Perron
 - Thomas Hollemann
