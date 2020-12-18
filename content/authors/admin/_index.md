@@ -11,7 +11,7 @@ role: Postdoctoral Associate
 # Organizations/Affiliations
 organizations:
 - name: Whiehead Insittute for Biomedical Research - MIT
-  url: "wi.mit.edu"
+  url: "https://wi.mit.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
