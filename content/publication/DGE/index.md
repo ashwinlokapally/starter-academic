@@ -5,8 +5,8 @@ authors:
 - Sanjeeva Metikala
 - Thomas Hollemann
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+# "Equal contribution"
+# "Equal contribution"
 date: "2016-12-10T00:00:00Z"
 doi: "https://doi.org/10.1007/s00427-016-0569-9"
 
@@ -20,16 +20,16 @@ doi: "https://doi.org/10.1007/s00427-016-0569-9"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Development Genes and Evolution, 1*(1)"
+publication: "*Development Genes and Evolution"
 publication_short: "DGE"
 
 abstract: Neuron-glial-related cell adhesion molecule (NRCAM) is a neuronal cell adhesion molecule of the L1 immunoglobulin superfamily, which plays diverse roles during nervous system development including axon growth and guidance, synapse formation, and formation of the myelinated nerve. Perturbations in NRCAM function cause a wide variety of disorders, which can affect wiring and targeting of neurons, or cause psychiatric disorders as well as cancers through abnormal modulation of signaling events. In the present study, we characterize the Xenopus laevis homolog of nrcam. Expression of Xenopus nrcam is most abundant along the dorsal midline throughout the developing brain and in the outer nuclear layer of the retina.
 
 # Summary. An optional shortened abstract.
-summary: 
+summary:" "
 
 tags:
-- Source Themes
+- Neurogenesis
 featured: false
 
 # links:
