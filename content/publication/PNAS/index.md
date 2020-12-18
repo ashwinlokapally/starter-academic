@@ -3,7 +3,7 @@ title: "Hedgehog-dependent E3-ligase Midline1 regulates ubiquitin-mediated prote
 date: 2016-08-23
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors: ["Thorsten Pfirrmanna", "Enrico Jandta", "Swantje Ranft", "Ashwin Lokapallya", "Herbert Neuhausa", "Muriel Perron", "Thomas Hollemann"]
+authors: ["Thorsten Pfirrmanna", "Enrico Jandta", "Swantje Ranft", "*Ashwin Lokapally*", "Herbert Neuhausa", "Muriel Perron", "Thomas Hollemann"]
 
 # Publication type.
 # Legend:
