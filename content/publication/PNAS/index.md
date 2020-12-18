@@ -9,12 +9,12 @@ authors: ["Thorsten Pfirrmanna", "Enrico Jandta", "Swantje Ranft", "*Ashwin Loka
 # Legend:
 # 0 = Uncategorized
 # 1 = Conference paper
-2: Journal article
+# 2: Journal article
 # 3 = Manuscript
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types: []
+publication_types: ["2"]
 
 # Publication name and optional abbreviated version.
 publication: "Proceedings of the National Academy of Sciences of the United States of America"
