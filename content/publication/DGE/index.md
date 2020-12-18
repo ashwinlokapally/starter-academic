@@ -4,7 +4,7 @@ authors:
 - Ashwin Lokapally
 - Sanjeeva Metikala
 - Thomas Hollemann
-author_notes:
+# author_notes:
 # "Equal contribution"
 # "Equal contribution"
 date: "2016-12-10T00:00:00Z"
