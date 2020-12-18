@@ -51,7 +51,7 @@ image:
   focal_point: ""
   preview_only: false
 
-  pic_width: 1886
+  pic_width: 886
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
