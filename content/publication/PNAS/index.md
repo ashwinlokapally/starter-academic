@@ -1,6 +1,6 @@
 ---
 title: "Hedgehog-dependent E3-ligase Midline1 regulates ubiquitin-mediated proteasomal degradation of Pax6 during visual system development"
-date: 2019-07-29T21:45:40-05:00
+date: 2016-08-23
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors: ["Thorsten Pfirrmanna", "Enrico Jandta", "Swantje Ranft", "Ashwin Lokapallya", "Herbert Neuhausa", "Muriel Perron", "Thomas Hollemann"]
