@@ -6,9 +6,9 @@ authors:
 - Claes Andréasson
 - Per Ljungdahl
 - Thomas Hollemann
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+# author_notes:
+# "Equal contribution"
+# "Equal contribution"
 date: "2013-06-13T00:00:00Z"
 doi: " https://doi.org/10.1371/journal.pone.0064870
 "
