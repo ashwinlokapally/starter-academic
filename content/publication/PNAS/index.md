@@ -25,7 +25,7 @@ publication_short: "*PNAS*"
 abstract: Pax6 is a key transcription factor involved in eye, brain, and pancreasdevelopment. Althoughpax6is expressed in the whole prospectiveretinal field, subsequently its expression becomes restricted to theoptic cup by reciprocal transcriptional repression ofpax6andpax2.However, it remains unclear how Pax6 protein is removed from theeyestalk territory on time. Here, we report that Mid1, a member ofthe RBCC/TRIM E3 ligase family, which was first identified in patientswith the X-chromosome–linked Opitz BBB/G (OS) syndrome, inter-acts with Pax6. We found that the forming eyestalk is a major do-main ofmid1expression, controlled by the morphogen Sonichedgehog (Shh). Here, Mid1 regulates the ubiquitination and protea-somal degradation of Pax6 protein. Accordantly, when Mid1 levelsare knocked down, Pax6 expressionis expanded and eyes are enlarged.Our findings indicate that remaining or misaddressed Pax6 protein iscleared from the eyestalk region to properly set the border betweenthe eyestalk territory and the retina via Mid1. Thus, we identified aposttranslational mechanism, regulated by Sonic hedgehog, which isimportant to suppress Pax6 activity and thus breakspax6autoregu-lation at defined steps during the formation of the visual system.
 
 # Summary. An optional shortened abstract.
-summary: "Pax6 is a key transcription factor involved in eye, brain, and pancreasdevelopment."
+summary: " "
 
 
 # Is this a featured publication? (true/false)
