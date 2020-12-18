@@ -53,7 +53,7 @@ projects: ["Neurogenesis"]
 slides: ""
 
 # Links (optional).
-#url_pdf = "https://link.springer.com/content/pdf/10.1007/s00427-016-0569-9.pdf"
+url_pdf: "https://link.springer.com/content/pdf/10.1007/s00427-016-0569-9.pdf"
 #url_preprint = ""
 #url_code = ""
 #url_dataset = ""
