@@ -73,7 +73,7 @@ user_groups:
 - Visitors
 ---
 
-XX
+
 I'm a postdoctoral researcher in the Sive lab at the Whitehead Institue - MIT. I'm working on neural crest cell migration, brain & craniofacial development and deveopmental disorders associated with it. The work also encompasses the role of extreme anterior domain in brain and craniofacial structure formation. 
 
 During my PhD, I characterized the functional role of TRIM E3 ligases during early neurogenesis. I developed a yeast 2 hydrid screen using Xenopus embryo library and a LC-MS/MS proteomic screening method to identify the functional interaction partners of Trim2 E3 ligase. I could show that Trim2 interacts with ALIX/ESCRT complex and plays a key role in the determination and differentiation of neural progenitors via the modulation of proliferation/apoptosis during neurogenesis (Lokapally et al., Cells 2020).
