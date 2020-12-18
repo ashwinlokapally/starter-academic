@@ -1,9 +1,9 @@
 ---
-title: "PNAS publication"
+title: "Hedgehog-dependent E3-ligase Midline1 regulates ubiquitin-mediated proteasomal degradation of Pax6 during visual system development"
 date: 2019-07-29T21:45:40-05:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors: ["Ashwin Lokapally"]
+authors: ["Thorsten Pfirrmanna", "Enrico Jandta", "Swantje Ranft", "Ashwin Lokapallya", "Herbert Neuhausa", "Muriel Perron", "Thomas Hollemann"]
 
 # Publication type.
 # Legend:
@@ -53,7 +53,7 @@ projects: []
 slides: ""
 
 # Links (optional).
-#url_pdf = ""
+url_pdf = "https://www.pnas.org/content/pnas/113/36/10103.full.pdf"
 #url_preprint = ""
 #url_code = ""
 #url_dataset = ""
