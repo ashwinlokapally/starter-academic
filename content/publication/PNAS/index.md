@@ -61,7 +61,7 @@ url_slides: ''
 url_source: ''
 url_video: ''
 
-# pic_width = W such that Wx517 is proportional to original pic resolution ratio. 
+# pic_width = 455 x 1976/1094
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
@@ -69,7 +69,7 @@ image:
   focal_point: ""
   preview_only: false
 
-  pic_width: 933
+  pic_width: 821
 ---
 
 

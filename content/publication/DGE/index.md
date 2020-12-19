@@ -44,7 +44,7 @@ url_slides: ''
 url_source: ''
 url_video: ''
 
-# Pic_wdith= 517 * 1886/994, where 1886/994 is the resolution ratio of the image
+# Pic_wdith= 455 * 1886/994, where 1886/994 is the resolution ratio of the image
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
@@ -52,7 +52,7 @@ image:
   focal_point: ""
   preview_only: false
 
-  pic_width: 1100
+  pic_width: 863
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
