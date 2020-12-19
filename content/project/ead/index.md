@@ -1,9 +1,9 @@
 ---
-title: EAD
-summary: An example of using the in-built project page.
+title: Extreme Anterior Domain
+summary: Extreme anteriror Domain - an organising center that is involved in the formation of the mouth and craniofacial structures.
 tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+- Craniofacial Development
+# date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
